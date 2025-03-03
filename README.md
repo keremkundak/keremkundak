@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">AI/Data Science Enthusiast</h3>
 
 - 📫 How to reach me **keremkundak@gmail.com**
 
